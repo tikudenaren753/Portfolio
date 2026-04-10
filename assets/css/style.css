@@ -71,6 +71,11 @@ nav
     border-bottom: 2px solid transparent;
     transition: border-color .25s;
 }
+@media screen and (max-width: 768px) {
+    .header-navitem > a {
+        font-size: 11px;
+    }
+}
 /* .header-navitem > a:hover{} */
 .btn.header-btn{
     display: inline-block;
