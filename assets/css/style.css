@@ -290,9 +290,9 @@ footer
     width: 100%;
     padding: 30px;
     align-content: center;
+     justify-items: center;
 }
 .logo-link.footer{
-    justify-self: center;
     display: block;
 }
 .footer.header-navlist{
